@@ -1,0 +1,2 @@
+# SmatContracts
+Experimenting with Solidity
